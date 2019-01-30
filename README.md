@@ -3,7 +3,7 @@ A repository containing one script ([`script.R`](script.R)) that shows how to
 perform regression analysis in the R programming language through different example 
 problems. You will learn how to:  
 
-   - Load data into R from an Excel file [`Problems in Regression QA-0416 data.xls`](Problems%20in%20Regression%20QA-0416%20data.xls)
+   - Load data into R from an [Excel file](Problems%20in%20Regression%20QA-0416%20data.xls)
    - Fit a regression to the data
    - Interpret the output
    - Along with other programming concepts like variables, assignment, and more!
