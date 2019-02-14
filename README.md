@@ -25,13 +25,13 @@ these steps to participate in the workshop.
 Step | Directions | Screenshot
 ---|---|---
 &#x2060;1 | Go to https://github.com/DardenDSC/solutions-in-regression | 
-&#x2060;2 | Click on the green `"Clone or download button"` and then click `"Download Zip"` | ![]('screenshots/download-zip.png') 
+&#x2060;2 | Click on the green `"Clone or download button"` and then click `"Download Zip"` | ![](screenshots/download-zip.png) 
 &#x2060;3 | On your computer extract the zip file (Mac does this automatically, on Windows right-click and click "Extract All") | 
-&#x2060;4 | Open up RStudio and click `File -> New Project` | ![]('screenshots/new-project.png') 
-&#x2060;5 | Click `"From Existing Directory"` and click `"Browse"` to select the folder you just unzipped | ![]('screenshots/select-folder.png') 
+&#x2060;4 | Open up RStudio and click `File -> New Project` | ![](screenshots/new-project.png) 
+&#x2060;5 | Click `"From Existing Directory"` and click `"Browse"` to select the folder you just unzipped | ![](screenshots/select-folder.png) 
 &#x2060;6 | This will use the folder as your R Project, which just means that the folder is a central place to keep all your analysis for this situation | 
-&#x2060;7 | In the bottom-left pane, click `"Files"` and select the file entitled `"script.R"` | ![]('screenshots/open-script.png') 
-&#x2060;8 | Now that you've got the script opened, you're all set to get started. Place your cursor at the end of a line and run it by pressing CTRL+ENTER (CMD+ENTER on Mac) | ![]('screenshots/run-command.png') 
+&#x2060;7 | In the bottom-left pane, click `"Files"` and select the file entitled `"script.R"` | ![](screenshots/open-script.png) 
+&#x2060;8 | Now that you've got the script opened, you're all set to get started. Place your cursor at the end of a line and run it by pressing `CTRL+ENTER` (`CMD+ENTER` on Mac) | ![](screenshots/run-command.png) 
 
 Keep reading for more information on how to set up your computer with R and RStudio.
  
