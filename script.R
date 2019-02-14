@@ -32,7 +32,7 @@ library(readxl)
 # The file contains multiple sheets (one for each problem), so we should specify which 
 # sheet and cells to read into R. 
 
-# The command "read.xlsx()" will read cells A3:B18 on the first worksheet and assign 
+# The command "read_excel()" will read cells A3:B18 on the first worksheet and assign 
 # it to an object called "prob1_data".
 prob1_data <- read_excel("Problems in Regression QA-0416 data.xls", 
                          sheet = 1, 
