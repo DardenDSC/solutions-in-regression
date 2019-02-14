@@ -24,14 +24,12 @@ these steps to participate in the workshop.
 
 Step | Directions | Screenshot
 ---|---|---
-&#35;1 | Go to https://github.com/DardenDSC/solutions-in-regression | 
-&#35;2 | Click on the green `"Clone or download button"` and then click `"Download Zip"` | <img height="200px;" src="screenshots/download-zip.png" /> 
-&#35;3 | On your computer extract the zip file (Mac does this automatically, on Windows right-click and click "Extract All") | 
-&#35;4 | Open up RStudio and click `File -> New Project` | <img height="70px;" src="screenshots/new-project.png" /> 
-&#35;5 | Click `"From Existing Directory"` and click `"Browse"` to select the folder you just unzipped | <img src="screenshots/select-folder.png" />
-&#35;6 | This will use the folder as your R Project, which just means that the folder is a central place to keep all your analysis for this situation | 
-&#35;7 | In the bottom-left pane, click `"Files"` and select the file entitled `"script.R"` | <img height="200px;" src="screenshots/open-script.png" /> 
-&#35;8 | Now that you've got the script opened, you're all set to get started. Place your cursor at the end of a line and run it by pressing `CTRL+ENTER` (`CMD+ENTER` on Mac) | <img height="100px;" src="screenshots/run-command.png" />
+Step &#35;1 | Go to https://github.com/DardenDSC/solutions-in-regression. Click on the green `"Clone or download button"` and then click `"Download Zip"` | <img height="200px;" src="screenshots/download-zip.png" /> 
+Step &#35;2 | On your computer extract the zip file (Mac does this automatically, on Windows right-click and click "Extract All") | <img height="200px;" src="screenshots/extract-folder.png" /> 
+Step &#35;3 | Open up RStudio and click `File -> New Project` | <img height="70px;" src="screenshots/new-project.png" /> 
+Step &#35;4 | Click `"From Existing Directory"` and click `"Browse"` to select the folder you just unzipped. This will use the folder as your R Project, which just means that the folder is a central place to keep all your analysis for this situation | <img src="screenshots/select-folder.png" />
+Step &#35;5 | In the bottom-left pane, click `"Files"` and select the file entitled `"script.R"` | <img height="200px;" src="screenshots/open-script.png" /> 
+Step &#35;6 | Now that you've got the script opened, you're all set to get started. Place your cursor at the end of a line and run it by pressing `CTRL+ENTER` (`CMD+ENTER` on Mac) | <img height="100px;" src="screenshots/run-command.png" />
 
 Keep reading for more information on how to set up your computer with R and RStudio.
  
