@@ -30,7 +30,7 @@ Step | Directions | Screenshot
 &#35;4 | Open up RStudio and click `File -> New Project` | <img height="70px;" src="screenshots/new-project.png" /> 
 &#35;5 | Click `"From Existing Directory"` and click `"Browse"` to select the folder you just unzipped | <img src="screenshots/select-folder.png" />
 &#35;6 | This will use the folder as your R Project, which just means that the folder is a central place to keep all your analysis for this situation | 
-&#35;7 | In the bottom-left pane, click `"Files"` and select the file entitled `"script.R"` | <img height="250px;" src="screenshots/open-script.png" /> 
+&#35;7 | In the bottom-left pane, click `"Files"` and select the file entitled `"script.R"` | <img height="200px;" src="screenshots/open-script.png" /> 
 &#35;8 | Now that you've got the script opened, you're all set to get started. Place your cursor at the end of a line and run it by pressing `CTRL+ENTER` (`CMD+ENTER` on Mac) | <img height="100px;" src="screenshots/run-command.png" />
 
 Keep reading for more information on how to set up your computer with R and RStudio.
